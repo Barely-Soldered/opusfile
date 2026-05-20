@@ -1,0 +1,6 @@
+#ifndef OPUSFILE_CONFIG_H
+#define OPUSFILE_CONFIG_H
+
+#define PACKAGE_VERSION "0.12"
+
+#endif
